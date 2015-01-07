@@ -7,7 +7,7 @@ source('R/HelloWorld.R')
 source('R/minusRaster.R')
 
 
-HelloWorld('Henk')
+HelloWorld('Jan')
 ageCalculator(2001)
 
 # import dataset
